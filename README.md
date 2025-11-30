@@ -3,7 +3,8 @@
 <!--
 **deluccavf/deluccavf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-*V:* apenas um estudante em busca de conhecimento pessoal e profissional, faço isso por mim e não por vocês.
+*<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/1fec96ee-7c0d-4a92-9ce8-58a10ed26f1c" />
+:* apenas um estudante em busca de conhecimento pessoal e profissional, faço isso por mim e não por vocês.
 
 ### 🤖 Linguagens e Tecnologias
 
