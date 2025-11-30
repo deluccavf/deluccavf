@@ -6,9 +6,14 @@
 *V:* apenas um estudante em busca de conhecimento pessoal e profissional, faço isso por mim e não por vocês.
 
  🔭 I’m currently working on me.
+ 
 🌱 I’m currently learning languages.
+
 👯 I’m looking to collaborate with pirates.
+
 🤔 I’m looking for help with my mental health.
+
 💬 Ask me about Animes.
+
 ⚡ Fun fact: im trying.
 
