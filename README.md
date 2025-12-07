@@ -1,6 +1,5 @@
 <div align="center">
-  
-### Tecnologiah
+
 <img src="https://img.shields.io/badge/Python-1a5c2a?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-1e6b32?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-22863a?style=for-the-badge&logo=html5&logoColor=white" />
