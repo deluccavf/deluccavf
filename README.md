@@ -8,7 +8,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -16,7 +16,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -25,7 +25,7 @@
 />
 
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -33,7 +33,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
