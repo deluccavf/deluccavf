@@ -4,10 +4,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-22863a?style=for-the-badge&logo=html5&logoColor=white&color=22863a)
 ![CSS3](https://img.shields.io/badge/CSS3-22863a?style=for-the-badge&logo=css3&logoColor=white&color=2da44e)
 
-**Ferramentas:**
-![Git](https://img.shields.io/badge/Git-22863a?style=for-the-badge&logo=git&logoColor=white&color=34a853)
-![GitHub](https://img.shields.io/badge/GitHub-22863a?style=for-the-badge&logo=github&logoColor=white&color=0d1117)
-
 <table>
   <tr>
     <td>
@@ -21,7 +17,5 @@
   </tr>
 </table>
 
-### Conecte-se comigo
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deluccadias)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deluccadias)
 
