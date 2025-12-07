@@ -1,4 +1,3 @@
-**Linguagens:**
 ![Python](https://img.shields.io/badge/Python-22863a?style=for-the-badge&logo=python&logoColor=white&color=1a5c2a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-22863a?style=for-the-badge&logo=javascript&logoColor=white&color=1e6b32)
 ![HTML5](https://img.shields.io/badge/HTML5-22863a?style=for-the-badge&logo=html5&logoColor=white&color=22863a)
