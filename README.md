@@ -1,4 +1,4 @@
-## Wassup malandro 👋
+## Wassup 👋
 
 <img width="256" height="256" alt="avatar" src="https://github.com/user-attachments/assets/1fec96ee-7c0d-4a92-9ce8-58a10ed26f1c" />
 
