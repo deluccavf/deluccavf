@@ -1,8 +1,3 @@
-### 👨‍💻 Sobre mim
-Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação.
-
-### 🛠️ Stack Tecnológico
-
 **Linguagens:**
 ![Python](https://img.shields.io/badge/Python-22863a?style=for-the-badge&logo=python&logoColor=white&color=1a5c2a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-22863a?style=for-the-badge&logo=javascript&logoColor=white&color=1e6b32)
@@ -12,8 +7,6 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação.
 **Ferramentas:**
 ![Git](https://img.shields.io/badge/Git-22863a?style=for-the-badge&logo=git&logoColor=white&color=34a853)
 ![GitHub](https://img.shields.io/badge/GitHub-22863a?style=for-the-badge&logo=github&logoColor=white&color=0d1117)
-
-### 📊 Dashboard GitHub
 
 <table>
   <tr>
@@ -28,7 +21,7 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação.
   </tr>
 </table>
 
-### 🔗 Conecte-se comigo
+### Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deluccadias)
 
