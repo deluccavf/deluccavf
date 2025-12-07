@@ -23,7 +23,7 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação.
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://streak-stats.demolab.com?user=deluccavf&theme=radical&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=deluccavf&theme=merko&hide_border=true" />
     </td>
   </tr>
 </table>
