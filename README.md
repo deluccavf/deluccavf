@@ -24,9 +24,6 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e inovação.
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deluccavf&show_icons=true&theme=radical" />
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deluccavf&layout=compact&theme=radical" />
-    </td>
   </tr>
   <tr>
     <td colspan="2">
