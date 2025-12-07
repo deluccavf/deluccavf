@@ -17,5 +17,5 @@
   </tr>
 </table>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deluccadias)
+[![Instagram](https://img.shields.io/badge/Instagram-22863a?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deluccadias)
 
